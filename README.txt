@@ -6,6 +6,7 @@ ICS4U final project 2018
 
 To play the game, run bookworm.exe
 It will only work on a windows computer and requires a resolution of at least 1280x800 (currently).
+Unfortunately, some of the in game music files were too large to upload to github. 
 
 -
 
