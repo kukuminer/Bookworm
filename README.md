@@ -10,6 +10,20 @@ Unfortunately, some of the in game music files were too large to upload to githu
 
 ---
 
+Previews:
+<details>
+  <summary>Screenshots inside!</summary>
+
+  ![Help screen](https://raw.githubusercontent.com/kukuminer/Bookworm/master/sprites/howto.png)
+  ![Title screen](https://raw.githubusercontent.com/kukuminer/Bookworm/master/previews/0.png)
+  ![Spelling the first word](https://raw.githubusercontent.com/kukuminer/Bookworm/master/previews/1.png)
+  ![Kill counter](https://raw.githubusercontent.com/kukuminer/Bookworm/master/previews/2.png)
+  ![Health bars showcase](https://raw.githubusercontent.com/kukuminer/Bookworm/master/previews/3.png)
+  
+</details>
+
+---
+
 To open the project itself, use codeblocks with the proper SFML libraries installed (all of them, version 2.4.2).  
 
 ---
